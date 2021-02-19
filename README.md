@@ -158,9 +158,9 @@
 
 
     3. Web App Development Cost, web application are not free of charge
-        * Developer salaries (highly skilled professionals whom are well-paid,
-          Expenses will be different depending on tech stack, the more advanced 
-          the technology is, the higher the developer salary will be.)
+        * Developers salaries (highly skilled professionals whom are well-paid)
+        * Expenses will be different depending on tech stack 
+        * the more advanced the technology is, the higher the developer salary will be
 
 ![Average Developer salaries in the U.S.](img/average-developer-salaries-us.jpg)   
 

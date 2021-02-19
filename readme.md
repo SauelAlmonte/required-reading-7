@@ -1,4 +1,5 @@
 # Required Reading 7
+## Notes
 
 # [Technology Stack for Web Application Development](https://rubygarage.org/blog/technology-stack-for-web-development) 
 

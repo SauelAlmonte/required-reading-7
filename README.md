@@ -30,12 +30,12 @@
         * Frameworks offers tools for simpler and faster coding
   
           -> Popular Programming Languages and Major Frameworks
-                * Ruby (Ruby on Rails)
-                * Python (Django, Flask, Pylons)
-                * PHP (Laravel)
-                * Java (Spring)
-                * Scala (Play)
-                * Node.js (JavaScript runtime, also used for backend programming)
+            * Ruby (Ruby on Rails)
+            * Python (Django, Flask, Pylons)
+            * PHP (Laravel)
+            * Java (Spring)
+            * Scala (Play)
+            * Node.js (JavaScript runtime, also used for backend programming)
 
         * Database - stores web apps/apps data - 2 Types
             * Relational

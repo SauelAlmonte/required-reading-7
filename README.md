@@ -11,10 +11,12 @@
         * HTML - tells browser how to display
         * CSS - styles the content being displayed
         * JavaScript - makes pages interactive
+  
           -> JavaScript Libraries
                 * jQuery
                 * React.js
                 * Zepto.js
+
           -> Frameworks
                 * Angular
                 * VUE
@@ -33,7 +35,7 @@
                 * PHP (Laravel)
                 * Java (Spring)
                 * Scala (Play)
-                * Node.js, JavaScript runtime, also used for backend programming
+                * Node.js (JavaScript runtime, also used for backend programming)
 
         * Database - stores web apps/apps data - 2 Types
             * Relational

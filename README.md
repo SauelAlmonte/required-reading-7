@@ -228,8 +228,8 @@
         -> Picking the wrong tech stack can be disastrous, as well as financially
         -> A team of professional web developers will be able to choose the right tools
 
-#### Accoring to Ruby Garage the best JS Frameworks for FrontEnd are? 
-click link -> [Ruby Garage](https://rubygarage.org/blog/best-javascript-frameworks-for-front-end)
+#### Accoring to RubyGarage the best JS Frameworks for FrontEnd are? 
+click link -> [RubyGarage](https://rubygarage.org/blog/best-javascript-frameworks-for-front-end)
 
  =============================================================================
 

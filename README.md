@@ -228,4 +228,18 @@
         -> Picking the wrong tech stack can be disastrous, as well as financially
         -> A team of professional web developers will be able to choose the right tools
 
+#### Accoring to [Ruby Garage](https://rubygarage.org/blog/best-javascript-frameworks-for-front-end) these are the best JS Frameworks for FrontEnd
+
+    Name  -  Type  -  Shadow DOM EcmasScript 6+   -   Relative Popularity   -  Difficulty ofLearning
+
+    React    Library   Supported                       5 Star                   5 Star
+
+    Vue       "     "   "     "                        2 Star                   3 Star
+
+    Angular  Framework  "     "                        3 Star                   5 Star
+
+    Ember     "     "   "     "                        1 Star                   5 Star
+
+    Backbone  "     "   "     "                        1 Star                   3 Star
+
 # [Why Hasn’t Low-Code Revolutionized App Development Yet?](https://devetry.com/blog/why-hasnt-low-code-revolutionized-app-development-yet/)

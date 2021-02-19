@@ -233,3 +233,54 @@ click link -> [Ruby Garage](https://rubygarage.org/blog/best-javascript-framewor
 
 
 # [Why Hasn’t Low-Code Revolutionized App Development Yet?](https://devetry.com/blog/why-hasnt-low-code-revolutionized-app-development-yet/)
+
+##### A few years ago many believed a Low-Code Revolution was about to shake things up... 
+#### They were wrong!
+##### What is Low-Code?
+    * Low-Code is like WordPress, Squarespace, or Wix (create fully-functioning websites without knowing a thing about HTML, CSS, or Javascript.)
+    * Non-developers can use premade templates, and real developers would focus on unique parts
+
+##### Where’s the revolution? - Whats holding Low-Code back?
+    * Lack of Customization
+    * Every site would look functionally the same and share the same limitations
+    * Not effective once your brand grows
+    * Once an individual or company decides they want something original or sophisticated, 
+      they have to hire a developer
+
+***"Therefore the advantage of using Low-Code in the first place diminishes"***
+
+#### Next disadvantage
+##### Learning Curve and Hurdles for Developers
+    * A developer can’t just jump right in and develop code to work within 
+      the Low-Code framework — they need to learn that framework first
+    * Developers who haven’t worked with Low-Code frameworks, will experience 
+      hurdles keeping them from doing something that, would be far simpler without 
+      the framework
+
+##### Tools Don’t Build Apps, People Do
+    * Non-developers don’t have the experience to think through an ideal user 
+      experience, viable functionality, and system architecture
+    * Non-developers will not know whether or not their use case is a simple one
+
+        -> Will their low-code app/web app intelligently recommend add-on products 
+        based on previous purchases?
+        -> Will it load new pages quickly enough to keep users interested?
+        -> Is its payment system secure, and will it manage out-of-state taxes for you?
+
+##### Where do Design Systems Fit In?
+    * Design system - is to write components in a way that makes it possible to 
+      re-use them in future apps with similar functionality
+    * Design System is an internal Low-Code framework, still needs a developer
+      and tends to be specific to an organization
+    * Design Systems are what developers and designers have come up with that 
+      respond to the same issue that Low-Code frameworks try to solve
+
+        -> inefficiency of writing new code that has been done millions of times
+        -> Developers have the advantage over low-code
+        -> Developers will continue to grow and adapt while low-code may not
+
+"Low-Code hasn’t caught on like the experts thought"
+
+It doesn’t mean that Low-Code won’t eventually take off. Low-Code has to prove their value to developers and convince them, low-code will be able to make customizations painlessly!?
+
+But we won’t see that happen until more developers and businesses feel like Low-Code consistently saves time, money, and effort.

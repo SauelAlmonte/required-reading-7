@@ -25,7 +25,8 @@
 
     #### Server-side Programming (not visible to user's)
         * Powers client-side
-        * Challenge of choosing server-side Tech for web app/apps
+        * The challenge lies mainly in the choice of server-side 
+          technologies for developing
         * Used to create the logic of websites and applications
         * Frameworks offers tools for simpler and faster coding
   

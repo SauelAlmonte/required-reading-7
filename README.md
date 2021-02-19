@@ -238,7 +238,8 @@ click link -> [Ruby Garage](https://rubygarage.org/blog/best-javascript-framewor
 ##### A few years ago many believed a Low-Code Revolution was about to shake things up... 
 #### They were wrong!
 ##### What is Low-Code?
-    * Low-Code is like WordPress, Squarespace, or Wix (create fully-functioning websites without knowing a thing about HTML, CSS, or Javascript.)
+    * Low-Code is like WordPress, Squarespace, or Wix 
+      (create fully-functioning websites without knowing a thing about HTML, CSS, or Javascript.)
     * Non-developers can use premade templates, and real developers would focus on unique parts
 
 ##### Where’s the revolution? - Whats holding Low-Code back?

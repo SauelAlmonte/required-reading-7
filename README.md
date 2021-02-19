@@ -233,6 +233,8 @@ click link -> [Ruby Garage](https://rubygarage.org/blog/best-javascript-framewor
 
  =============================================================================
 
+ =============================================================================
+
 # [Why Hasn’t Low-Code Revolutionized App Development Yet?](https://devetry.com/blog/why-hasnt-low-code-revolutionized-app-development-yet/)
 
 ##### A few years ago many believed a Low-Code Revolution was about to shake things up... 

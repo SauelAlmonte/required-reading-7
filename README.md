@@ -187,6 +187,45 @@
         "Think of scalability in advance and choose an appropriate technology stack 
         for your and or the clients needs"
 
+#### Technology Stacks Behind Successful Web Projects
+- [AirBnB](https://www.airbnb.com/)
+   * JavaScript & React.js
 
+- [Shopify](https://www.shopify.com/)
+   * JavaScript & React.js 
+
+- [Quora](https://www.quora.com/)
+   * JavaScript & Zepto.js 
+
+- [Instagram](https://www.instagram.com/)
+   * JavaScript & React.js
+
+- [Product Hunt](https://www.producthunt.com/)
+   * JavaScript & React.js 
+
+- [Codecademy](https://www.codecademy.com/)
+   * JavaScript & React.js
+
+- [Pinterest](https://www.pinterest.com/)
+   * JavaScript & Zepto.js 
+
+- [Reddit](https://www.reddit.com/)
+   * JavaScript, React.js & jQuery
+
+- [Coursera](https://www.coursera.org/)
+   * Bootstrap, JavaScript, React.js & jQuery 
+
+- [Facebook](https://www.facebook.com/) "almost 2 billion active monthly users"
+   * JavaScript & React.js
+
+#### Picking a Technology Stack According to Your Project
+    * Can be really challenging
+    * Core idea that should guide you
+        -> choose the technologies according to your project
+        -> Do not rely on time-proven technologies only, even if used by large succesful companies
+        or with their help
+        -> Always be realistic and take all pros and cons into account
+        -> Picking the wrong tech stack can be disastrous, as well as financially
+        -> A team of professional web developers will be able to choose the right tools
 
 # [Why Hasn’t Low-Code Revolutionized App Development Yet?](https://devetry.com/blog/why-hasnt-low-code-revolutionized-app-development-yet/)

@@ -1,5 +1,4 @@
 # Required Reading 7
-## Smart Notes
 
 # [Technology Stack for Web Application Development](https://rubygarage.org/blog/technology-stack-for-web-development) 
 

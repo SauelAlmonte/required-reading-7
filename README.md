@@ -102,22 +102,22 @@
         *  Complexity
 
             -> Simple (created with out the box solutions, like CMS software; 
-            Examples: Landing pages and simple online stores)
+               Examples: Landing pages and simple online stores)
 
             -> Mid-level (aps with more functions are built with frameworks; 
-            Examples: Large E-Commerce stores and Enterprises)
+               Examples: Large E-Commerce stores and Enterprises)
 
             -> Complex (lots of functions and integrations, developed with 
-            different web development technologies and composed of several 
-            programming languages; Examples: social networks, large ecommerce 
-            marketplaces, fintech software, etc.)
+               different web development technologies and composed of several 
+               programming languages; Examples: social networks, large ecommerce 
+               marketplaces, fintech software, etc.)
 
         * Take business goals into account (very important)
         * Business goals impact choice of tech for development
 
             -> Processing heavy loads (web project which reliy on load processing
-            choose programming languages and frameworks that can provide this.
-            Examples of projects:  video/audio streaming apps and file sharing services)
+               choose programming languages and frameworks that can provide this.
+               Examples of projects:  video/audio streaming apps and file sharing services)
 
             -> Low latency (utilizes different tech stacks to make web app highly responsive
             and reduce latency. Examples of projects: Social networks require low latency)
@@ -130,27 +130,27 @@
         * TTM heavily depends on the technology stack
 
             -> Out-of-the-box solutions (research this solution, for adding some 
-            necessary functionality to your web application, Examples: Ruby on Rails Framework,
-            allows developers to use open source libraries (called gems). To facilitate
-            the dev process and reduce TTM)
+               necessary functionality to your web application, Examples: Ruby on Rails Framework,
+               allows developers to use open source libraries (called gems). To facilitate
+               the dev process and reduce TTM)
 
             -> Integration with third-party solutions (verify tech stack one chooses
-            supports integration with 3rd party solutions. It will add functions without 
-            reinventing the wheel)
+               supports integration with 3rd party solutions. It will add functions without 
+               reinventing the wheel)
 
             -> Developer availability (find developers with expertise in the tech stack, 
-            as building the web app is just the start, you will also need developers to 
-            maintain after launch)
+               as building the web app is just the start, you will also need developers to 
+               maintain after launch)
 
             -> Documentation and developer community (choose tech stack that has a large 
-            community and rich documentation)
+               community and rich documentation)
 
             -> Easy to test (removing all bugs requires a lot of time and slows down 
-            development, choose technologies that are easy to test.Some technologies 
-            are based on a so-called test-driven development approach, which implies 
-            that testing goes first and coding comes after. Test-driven development 
-            allows you to guarantee your code and product quality and speed up development 
-            in the medium and long term)
+               development, choose technologies that are easy to test.Some technologies 
+               are based on a so-called test-driven development approach, which implies 
+               that testing goes first and coding comes after. Test-driven development 
+               allows you to guarantee your code and product quality and speed up development 
+               in the medium and long term)
 
 
 ![Number of contributors on GitHub as of June 2017](img/frameworks-by-contributors-on-github.jpg)
@@ -223,7 +223,7 @@
     * Core idea that should guide you
         -> choose the technologies according to your project
         -> Do not rely on time-proven technologies only, even if used by large succesful companies
-        or with their help
+           or with their help
         -> Always be realistic and take all pros and cons into account
         -> Picking the wrong tech stack can be disastrous, as well as financially
         -> A team of professional web developers will be able to choose the right tools
@@ -267,7 +267,7 @@ click link -> [Ruby Garage](https://rubygarage.org/blog/best-javascript-framewor
     * Non-developers will not know whether or not their use case is a simple one
 
         -> Will their low-code app/web app intelligently recommend add-on products 
-        based on previous purchases?
+           based on previous purchases?
         -> Will it load new pages quickly enough to keep users interested?
         -> Is its payment system secure, and will it manage out-of-state taxes for you?
 

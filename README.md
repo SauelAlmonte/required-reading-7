@@ -170,21 +170,22 @@
              
    [Ruby on Rails web development](https://rubygarage.org/services/ruby-on-rails-development)
 
-    4. Security, Cyberattacks are the biggest threat to online businesses!
+    4. Security
+        * Cyberattacks are the biggest threat to online businesses!
         * Pick the right technology to create a really secure app
         * No language guarantees 100% safety
         * Choose the right tool first and follow security guidelines second
         * Most web development technologies provide security guidelines... FOLLOW THEM!
         * Make sure your web app is created in accordance with the appropriate security guidelines
 
-    5. Scalability -  isn’t a feature to turn your back on/do not ignore, there are 2 types
+    1. Scalability -  isn’t a feature to turn your back on/do not ignore, there are 2 types
         * Horizontal scalability - means the ability to handle high traffic, growing number 
           of users if it grows dramatically
         * Vertical scalability - means the ability to add new components to a 
           web application without damaging its performance
   
         "Think of scalability in advance and choose an appropriate technology stack 
-        for your or the clients needs"
+        for your and or the clients needs"
 
 
 
